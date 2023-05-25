@@ -1,0 +1,14 @@
+# Version 0.1 (23/05/2023)
+- Created Physics engine in PlanetCalculator.py to generate dataset of orbital datapoints.
+- Added star: Sun
+- Added planet: Earth
+
+# Version 0.2 (23/05/2023)
+- Created Graphics engine in PlanetVisualiser.py to render orbital datapoints from datasets.
+- Added planetary satellite: Luna (Moon of Earth)
+- Added planet: Jupiter
+
+# Version 0.3 (23/05/2023)
+- Created Skybox, disabled due to inadequete quality.
+- Added time limit in seconds for orbital simulation.
+- 

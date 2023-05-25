@@ -1,0 +1,14 @@
+{
+    "Luna": {
+        "parent": "Earth", 
+        "mass": 7.346e+22,
+        "size": [1.7374e+6, 1.7374e+6, 1.7374e+6],
+        "pos": [3.63e+5, 0, 0],
+        "vel": [0, 1.082e+3, 0],
+        "inclination": 5.1,
+        "color": [1, 1, 1],
+        "texture": "./textures/moon.jpg",
+        "trail": true, 
+        "trail_color": [0.9, 0.9, 0.9]
+    }
+}

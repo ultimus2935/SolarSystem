@@ -1,0 +1,34 @@
+{
+    "Sun": {
+        "mass": 1.9891e+30,
+        "size": [6.957e+8, 6.957e+8, 6.957e+8],
+        "pos": [0, 0, 0],
+        "vel": [0, 0, 0],
+        "color": [1, 1, 1],
+        "texture": "./textures/sun.jpg",
+        "trail": false, 
+        "trail_color": [0.889, 0.748, 0.000]
+    },
+
+    "Earth": {
+        "mass": 5.97219e+24,
+        "size": [6.3781e+6, 6.3781e+6, 6.3781e+6],
+        "pos": [-1.47095e+11, 0, 0],
+        "vel": [0, -3.029e+4, 0],
+        "color": [1, 1, 1],
+        "texture": "./textures/earth.jpg",
+        "trail": true, 
+        "trail_color": [0.227, 0.724, 0.837]
+    },
+    
+    "Jupiter": {
+        "mass": 1.89813e+27,
+        "size": [6.9911e+7, 6.9911e+7, 6.9911e+7],
+        "pos": [7.40595e+11, 0, 0],
+        "vel": [0, 1.372e+4, 0],
+        "color": [1, 1, 1],
+        "texture": "./textures/jupiter.jpg",
+        "trail": true, 
+        "trail_color": [0.630, 0.481, 0.119]
+    }
+}
